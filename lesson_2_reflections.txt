@@ -41,3 +41,11 @@ The split into the diagram means it took a different path in the developing.
 So while in one branch the developing keeped going, in the other branch the
 development took another direction with another feature and seeing it in two
 branches makes it easier to see it.
+--------------------------------------------------------------------------------
+ ? What are the pros and cons og Git's automatic merging vs. always doing merges
+ manually?
+
+Whenever there is some conflict Git can't choose what version should be chosen
+even if is something basic for a human and it can make the mergers a little
+annoying, but it also ensure that there are no errors in the mergers, it merges
+only the obvious and non ambiguous codes.
