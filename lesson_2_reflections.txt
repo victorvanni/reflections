@@ -27,3 +27,9 @@ Some situations to separate into other branches would be when you are working
 on something different, something additional that doesn't need to stop the
 current development, like translanting the app or doing some experimental
 feature.
+--------------------------------------------------------------------------------
+ ? How do the diagrams help you visualize the branch structure?
+
+Drawing the diagram helps us see in what time it is and with what changes a
+branch has, ie seeing that some branch does not have a change made further in
+the master branch. And also let us check the unreachable commits.
