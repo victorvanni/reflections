@@ -1,0 +1,14 @@
+ ? What happens when you initialize a repository? Why do you need to do it?
+
+When you initialize a respository it adds the essencial files of a repository,
+like the configs and others metadata, so it can be recognized as a repository,
+and that's also why we need to do it.
+--------------------------------------------------------------------------------
+ ? How is staging area different from the working directory and the repository?
+ What value do you think it offers?
+
+The repository is something like a directory with some extra informations that
+let us keep track of changes, the directory doesn't have such feature.
+The staging area is the connection between the working directory and repository,
+when you change something in the working directory it has to go to the staging
+area so the commit can understand it and save the change history.
