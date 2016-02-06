@@ -33,3 +33,11 @@ feature.
 Drawing the diagram helps us see in what time it is and with what changes a
 branch has, ie seeing that some branch does not have a change made further in
 the master branch. And also let us check the unreachable commits.
+--------------------------------------------------------------------------------
+ ? What is the result of merging two branches together? Why do we represent it
+ in the diagram the way we do?
+
+The split into the diagram means it took a different path in the developing.
+So while in one branch the developing keeped going, in the other branch the
+development took another direction with another feature and seeing it in two
+branches makes it easier to see it.
