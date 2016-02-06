@@ -12,3 +12,10 @@ let us keep track of changes, the directory doesn't have such feature.
 The staging area is the connection between the working directory and repository,
 when you change something in the working directory it has to go to the staging
 area so the commit can understand it and save the change history.
+--------------------------------------------------------------------------------
+ ? How can you use the staging area to make sure you have one commit per
+ logical change?
+
+Instead of commiting every file at once you can add a set of files from a
+logical change and commit it with a meaningful message, then repeat these steps
+until all logical changes are commited.
