@@ -19,3 +19,11 @@ area so the commit can understand it and save the change history.
 Instead of commiting every file at once you can add a set of files from a
 logical change and commit it with a meaningful message, then repeat these steps
 until all logical changes are commited.
+--------------------------------------------------------------------------------
+ ? What are some situations when branches would be helpful in keeping your
+ history organized? How would branches help?
+
+Some situations to separate into other branches would be when you are working
+on something different, something additional that doesn't need to stop the
+current development, like translanting the app or doing some experimental
+feature.
