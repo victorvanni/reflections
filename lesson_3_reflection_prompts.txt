@@ -13,3 +13,20 @@ I think it is better to pull changes manually because it could happen to update
 some changes that other people did and it could change something that you're
 working on, creating some problems.
 --------------------------------------------------------------------------------
+ ? Describe the differences between forks, clones, and branches. When would you
+ use one instead of another?
+
+Branches: Working in a repo, a branch is a line of working. You can create
+	another line of working if you want to work on another feature, for example.
+	You usually create another branch when you don't want to work on the main
+	branch but also want to create something new or fix something without
+	bothering the whole project. In the future you can merge your branch.
+
+Clones: When you copy a repo from somewhere to another place you are cloning it.
+	The only exception, here, is from github to github that is our next topic.
+	You clone a repository when you want to work on that project.
+
+Forks: It's similar to the clone but when it happens from a GitHub repo to
+	another GitHub repo, you usually fork a repo when you don't have permission
+	to work in the original project and you want to work on your own version.
+--------------------------------------------------------------------------------
