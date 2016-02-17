@@ -5,3 +5,11 @@ It becomes interesting to use a remote repository when you want to work on
 the same project in different computers or with different people, also, it is
 a good way to keep a backup in the cloud, so it becomes harder to lost your
 project.
+--------------------------------------------------------------------------------
+ ? Why might you want to always pull changes manually rather than having Git
+ automatically stay up-to-date with your remote repository?
+
+I think it is better to pull changes manually because it could happen to update
+some changes that other people did and it could change something that you're
+working on, creating some problems.
+--------------------------------------------------------------------------------
