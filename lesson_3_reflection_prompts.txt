@@ -36,3 +36,12 @@ Forks: It's similar to the clone but when it happens from a GitHub repo to
 The benefit is to know when there will be a conflict between the local version
 with the remote version. This way we know if the remote advanced.
 --------------------------------------------------------------------------------
+ ? How would you collaborate without using Git or GitHub? What would be easier,
+ and what would be harder?
+
+I don't know how this would be possible. And I say that because the question
+used the word "collaborate" that means making better change to another project.
+It could be done probably asking a copy for a person or something like this and
+you'd probably need to give back your new version to the person to find the
+differences between the new version and his version and it would be a ton of
+work.
