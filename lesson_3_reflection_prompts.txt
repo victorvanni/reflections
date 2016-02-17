@@ -30,3 +30,9 @@ Forks: It's similar to the clone but when it happens from a GitHub repo to
 	another GitHub repo, you usually fork a repo when you don't have permission
 	to work in the original project and you want to work on your own version.
 --------------------------------------------------------------------------------
+ ? What is the benefit of having a copy of the last known state of the remote
+ sotred locally?
+
+The benefit is to know when there will be a conflict between the local version
+with the remote version. This way we know if the remote advanced.
+--------------------------------------------------------------------------------
