@@ -45,3 +45,13 @@ It could be done probably asking a copy for a person or something like this and
 you'd probably need to give back your new version to the person to find the
 differences between the new version and his version and it would be a ton of
 work.
+--------------------------------------------------------------------------------
+ ? When would you want to make changes in a separate branch rather than directly
+ in master? What benefits does each approach have?
+
+Making changes in a separate branch allow you to push things to GitHub and to
+get feedbacks on your development in a way that it won't affect the master
+branch until you merge them.
+Working on directly in master reduce the work that needs to be done, because
+you just have to pull and push and the merge act will happen with it, you just
+have to solve the conflicts.
